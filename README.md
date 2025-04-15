@@ -29,7 +29,15 @@ A simple and intuitive web-based budget tracking application that helps you mana
    cd Budget_tracker
    ```
 
-3. Open `index.html` in your preferred web browser
+3. Start a local server:
+   ```bash
+   python -m http.server 8000
+   ```
+
+4. Access the application in your web browser:
+   ```
+   http://localhost:8000
+   ```
 
 ## Usage
 

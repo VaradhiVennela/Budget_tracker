@@ -1,4 +1,3 @@
-# Budget_tracker
 # Budget Tracker
 
 A simple and intuitive web-based budget tracking application that helps you manage your personal finances effectively. Keep track of your income and expenses, monitor your total balance, and maintain a detailed transaction history.
